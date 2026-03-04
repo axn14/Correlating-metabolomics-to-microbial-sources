@@ -1,7 +1,10 @@
 
 
-# --------------------------------------------------------------------------"""
-Differential abundance — ERAWIJANTARI: Healthy vs Gastrectomy; YACHIDA: Healthy vs NonHealthy. Mann-Whitney U + BH-FDR; volcano plots with polyamines highlighted.
+# --------------------------------------------------------------------------
+"""
+Differential abundance — ERAWIJANTARI: Healthy vs Gastrectomy; YACHIDA: Healthy vs NonHealthy. 
+Mann-Whitney U + BH-FDR;
+volcano plots with polyamines highlighted.
 """
 
 
