@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 OOF residual diagnostics — 5-fold CV residuals for top 3 metabolites per dataset. 6-panel figure: residuals vs fitted, Q-Q, predicted vs actual, histogram, scale-location, residuals by group.
 """
 
