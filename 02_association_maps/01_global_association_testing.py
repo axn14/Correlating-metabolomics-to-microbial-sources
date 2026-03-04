@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 Global association testing — Mantel test (distance correlation), RDA (constrained ordination), and PLS (cross-validated R²) between microbiome and metabolome.
 """
 
