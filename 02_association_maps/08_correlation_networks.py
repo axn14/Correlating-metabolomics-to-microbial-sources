@@ -1,6 +1,6 @@
 
-
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 Correlation networks — bipartite NetworkX graphs (ρ≥0.3, q<0.05); Louvain community detection; polyamine-centric 1-hop subnetwork extraction and visualization.
 """
 
