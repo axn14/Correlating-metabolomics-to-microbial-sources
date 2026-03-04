@@ -60,13 +60,12 @@ statsmodels pingouin networkx xgboost shap
 ## Data
 
 Find all data files (Associated to CRC and otherwise) uploaded in the Data/ folder (with special thanks to the Borenstein Lab [https://github.com/borenstein-lab/microbiome-metabolome-curated-data] and to Erawijantari for speedy and prompt replies
-All code dependancies can be found in the `utils.p`.
+All code dependancies can be found in the `utils.py`.
 
 
 <img width="2768" height="968" alt="image" src="https://github.com/user-attachments/assets/061a0570-34c7-47d9-a6fe-900f9c067077" />
 
-# Which at last brings us to the:
-## Key Research Questions
+# Which at last brings us to the Key Research Questions:
 
 1. Which microbial species exhibit the strongest statistical associations with polyamine abundance across disease states?
 2. Can machine learning models accurately predict polyamine levels from species composition, and which species are the most important predictors?
