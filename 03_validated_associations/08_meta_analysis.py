@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 Random-effects meta-analysis — DerSimonian-Laird pooling of Spearman correlations (Fisher z-transformed) across Erawijantari and Yachida. Forest plots; heterogeneity I² and τ²; BH-FDR correction.
 """
 
