@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 Full unstratified correlations — top 200 most variable species × metabolites; used as input to global network analysis.
 """
 
