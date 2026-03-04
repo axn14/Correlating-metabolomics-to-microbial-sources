@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 Step 11 — CLR transform for species (pseudocount=1e-6); log2 transform for metabolites (skipped if pre-normalised).
 """
 
