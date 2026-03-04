@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 SHAP-weighted bipartite network — Nodes: metabolite targets (purple), species (green), group dummies (orange), confounders (grey). Edge weight = SHAP importance × best AUC (composite importance score).
 """
 
