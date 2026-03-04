@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 Step 12 — PCA on CLR-transformed species and log2-transformed metabolite data; colour by Study.Group.
 """
 
