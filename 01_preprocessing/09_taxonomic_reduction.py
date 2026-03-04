@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 Step 9 — Parse GTDB taxonomy strings to species-level names; aggregate duplicates by summing abundances.
 """
 
