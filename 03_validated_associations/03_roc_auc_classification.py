@@ -1,6 +1,7 @@
 
 
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 ROC-AUC classification — Binarise metabolite log2 by median; stratified 10-fold OOF classification; compute AUC-ROC, AUPRC, F1, Accuracy, Recall, Precision. ROC and PR curves plotted per metabolite.
 """
 
