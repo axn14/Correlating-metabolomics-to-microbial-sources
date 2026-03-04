@@ -1,7 +1,9 @@
 
 
-# --------------------------------------------------------------------------"""
-Stage-stratified Spearman correlations — all species × all metabolites within each disease stage (q<0.05). Heatmaps of top associations per stage.
+# --------------------------------------------------------------------------
+"""
+Stage-stratified Spearman correlations — all species × all metabolites within each disease stage (q<0.05).
+Heatmaps of top associations per stage.
 """
 
 
