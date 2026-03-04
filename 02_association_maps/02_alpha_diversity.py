@@ -1,6 +1,5 @@
-
-
-# --------------------------------------------------------------------------"""
+# --------------------------------------------------------------------------
+"""
 Alpha diversity — Shannon H' for species and metabolites per disease stage. Mann-Whitney U (2 groups) or Kruskal-Wallis + BH-FDR pairwise (≥3 groups).
 """
 
