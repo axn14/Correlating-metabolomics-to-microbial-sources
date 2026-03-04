@@ -1,7 +1,9 @@
 
 
-# --------------------------------------------------------------------------"""
-Step 13 — Save preprocessed data as pickle; write text summary report.
+# --------------------------------------------------------------------------
+"""
+Step 13 — Save preprocessed data as pickle; 
+Also, writes text summary report form line 42
 """
 
 
